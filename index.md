@@ -26,6 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+## Olukayode's First CS193 Homework
+- Learning useful CS Tools
+- Learning helpful CS applications
+- 
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
