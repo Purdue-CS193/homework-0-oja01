@@ -29,7 +29,7 @@ Syntax highlighted code block
 ## Olukayode's First CS193 Homework
 - Learning useful CS Tools
 - Learning helpful CS applications
-- 
+- more to come
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
